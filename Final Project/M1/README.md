@@ -1,0 +1,1 @@
+The Date class encapsulates a date value in three integers for year, month and day, and is readable by istreams and printable by ostream using the following format for both reading and writing: 	YYYY/MM/DD
